@@ -8,3 +8,6 @@ Customize visual style and layout.<p>
 Export to many file formats.<p>
 Embed in `JupyterLab` and Graphical User Interfaces.<p>
 Use a `rich array` of third-party packages built on Matplotlib.
+ 
+  
+ `TO CONTRIBUTE COMMIT TO programs DIRECTORY AND MAKE A PR😊`
